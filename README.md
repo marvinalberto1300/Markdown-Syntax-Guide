@@ -9,6 +9,7 @@ We also learned how to make lists:
 * List Item 1
 * List Item 2
 * List Item 3
+
 In addition we also learned how to insert links, images and blockquotes.
 [Link Here! Click me!](https://simplemarkdown.com)
 >"Markdown syntax is used in chat applications such as Slack and Discord."
